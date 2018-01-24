@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "64797FAC-D9EA-4AE0-AC2C-4F2007E086BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 300,
+    "x": 0,
+    "y": 76
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "TagForm",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73AA444A-DD9B-49FE-821C-4112315FBF20",
+      "overrideName": "CBEFEC2E-676E-46D5-8358-F88A5E7DB1E1_stringValue",
+      "value": "內容"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37EBF948-D2FA-4243-A269-EC5284AAFCDE",
+      "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/1731181B-12BB-4FF3-B21A-634A9F0805E7_stringValue",
+      "value": "吞嚥中"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48ABACAA-41E5-4B73-895E-E7E84ED423FE",
+      "overrideName": "1A90F201-065B-45E1-B9EF-B63DEC216FD2_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "1A90F201-065B-45E1-B9EF-B63DEC216FD2": {
+      "symbolID": ""
+    },
+    "311A5BF3-7738-4A8B-9C30-830C04595460": {
+      "1731181B-12BB-4FF3-B21A-634A9F0805E7": "吞嚥中"
+    },
+    "CBEFEC2E-676E-46D5-8358-F88A5E7DB1E1": "內容"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "72B53EB9-A667-4D9C-BC24-2F7E102AC8BA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

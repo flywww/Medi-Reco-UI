@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "35CCFB71-9855-4191-99F4-07DEF6F4E081",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 196,
+    "x": 0,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A7C045D-386C-48D6-B588-596347AC88C6",
+      "overrideName": "32CAFF98-00DF-4D06-899B-61C23DC7D61C/F440EEB3-E364-405B-825C-8E92EBB4BCA1_stringValue",
+      "value": "進階編輯"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7B37EDA-C1B4-4105-AA5B-DCAE0CC54CA6",
+      "overrideName": "32EBB523-8C2A-43B6-815A-2C195C5EF372/01CCFC2D-D221-4026-80AB-9A72EA197BAB_stringValue",
+      "value": "進階編輯"
+    }
+  ],
+  "overrides": {
+    "32CAFF98-00DF-4D06-899B-61C23DC7D61C": {
+      "F440EEB3-E364-405B-825C-8E92EBB4BCA1": "進階編輯"
+    },
+    "32EBB523-8C2A-43B6-815A-2C195C5EF372": {
+      "01CCFC2D-D221-4026-80AB-9A72EA197BAB": "進階編輯"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "16EBC3F0-0CD9-43F6-B668-41519839C0E7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "46B4CC3F-F2CB-4177-9EEB-C46F303E9E9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 300,
+    "x": 1538,
+    "y": 910
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D431603A-428C-47AE-9498-E02706761B80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE7EC497-38FC-4ACC-9CFB-50AC1B89A2A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3A31A88-A6D5-40A8-A9F4-3D9EB9A72E69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFC1BB7A-FD1F-4D41-AE3B-ACBAB70EA8B3"
+    }
+  ],
+  "name": "TagForm",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

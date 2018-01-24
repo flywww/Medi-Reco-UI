@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "F04446C3-D91F-4C75-AD76-98D900ED9EBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 8,
+    "width": 88,
+    "x": 33.49999999999935,
+    "y": 12.21739130434798
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E5C52818-5298-4F1F-9980-BC1C4AECB89F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D7B5F45-4490-4151-90A7-508A18E7BE65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED4746E3-0159-4669-81F6-60CDFA519AA6"
+    }
+  ],
+  "name": "Volume Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

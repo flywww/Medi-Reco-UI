@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "61BDD2C9-5D78-423B-88CE-D622053E6F54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 147,
+    "width": 1355,
+    "x": 565,
+    "y": 935
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EA0B108A-40B3-40F8-A63E-51E66AE009B3"
+    },
+    {
+      "class": "group",
+      "id": "71CC616B-6F2D-4D7C-957D-26E21FA4D05A"
+    },
+    {
+      "class": "group",
+      "id": "0040D080-56B5-429E-ACE5-BA640039FB3C"
+    },
+    {
+      "class": "group",
+      "id": "F290EA92-9AFF-4D70-A3AF-623FA20A05C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23A4A4BD-DFFE-47F8-83F2-6FC1607A7C31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03B14E15-91A3-4A75-A4D8-3DE8A1D0892C"
+    }
+  ],
+  "name": "RecordControlBar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

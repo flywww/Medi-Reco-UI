@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2A801F45-10CA-4340-BB4B-E039FB80E1FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 55,
+    "x": 267,
+    "y": 31
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "TagButton",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56996B29-D6F1-431D-A879-0D27BB578C86",
+      "overrideName": "4B8A6972-53E8-49C6-8CC0-B63A2E5D9EBA/8BE78B78-C312-40A0-A83D-578B191C1903_stringValue",
+      "value": "M"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8FD5A992-6EF8-45A2-854A-7A93935807A9",
+      "overrideName": "3AFF78E1-A331-4640-A64F-834F46A7E49C_symbolID",
+      "value": "17BEA313-A982-4787-ACCD-EED19FAFF71B"
+    }
+  ],
+  "overrides": {
+    "3AFF78E1-A331-4640-A64F-834F46A7E49C": {
+      "symbolID": "17BEA313-A982-4787-ACCD-EED19FAFF71B"
+    },
+    "4B8A6972-53E8-49C6-8CC0-B63A2E5D9EBA": {
+      "8BE78B78-C312-40A0-A83D-578B191C1903": "M"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F0030282-1D12-4B26-9F64-94C914B197C3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

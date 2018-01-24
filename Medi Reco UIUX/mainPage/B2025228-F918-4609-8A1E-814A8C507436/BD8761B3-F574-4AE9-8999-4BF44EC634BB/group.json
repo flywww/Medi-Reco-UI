@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "BD8761B3-F574-4AE9-8999-4BF44EC634BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 1497,
+    "x": 5,
+    "y": 936
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "907717DC-E0F8-4169-8046-5255E13E50A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A84A8AC-CEA6-4DD0-89B2-ECE73055E98A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CED7D9AC-07FF-4C36-89E0-734168898E50"
+    },
+    {
+      "class": "text",
+      "id": "5192E9AB-C8DB-4D75-B513-D50FEE1821A6"
+    }
+  ],
+  "name": "Play Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

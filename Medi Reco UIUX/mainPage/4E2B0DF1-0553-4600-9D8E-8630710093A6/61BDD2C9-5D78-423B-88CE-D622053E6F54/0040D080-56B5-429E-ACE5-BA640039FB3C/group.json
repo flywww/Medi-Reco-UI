@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "0040D080-56B5-429E-ACE5-BA640039FB3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 345,
+    "x": 328,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CFF48700-1D62-492E-A5A2-CC91F2B55C35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDE1F64C-2ADE-4118-A7BC-8DDFD0BE00AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6471BF12-FED4-4CB6-9C28-EF10D8577DB0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24E66126-3C2E-4F3B-9A6E-EA5A5F984B30"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6ACB2F5-52DC-46D4-87EA-C480CC7E0533"
+    }
+  ],
+  "name": "DisplayControlButtons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

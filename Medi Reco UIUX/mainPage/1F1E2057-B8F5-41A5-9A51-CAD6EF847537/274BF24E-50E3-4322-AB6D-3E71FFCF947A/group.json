@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "274BF24E-50E3-4322-AB6D-3E71FFCF947A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 72,
+    "x": 1957,
+    "y": 284
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "61C107FE-77E5-41A3-9E7C-B67CAFDDE7C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D5870E5-3B28-478E-AC32-7E0E0D66E2B6"
+    },
+    {
+      "class": "text",
+      "id": "87434AF0-4E5F-4D39-9B59-89B5CB54DE89"
+    }
+  ],
+  "name": "ComboBox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
