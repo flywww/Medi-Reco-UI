@@ -142,6 +142,38 @@
     },
     {
       "class": "symbolMaster",
+      "id": "B6E5533B-F935-428A-B715-73B09F37668D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "354610BB-E3DB-4372-B44A-3BCB6B6912C8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4A892FDD-7088-4AE9-87F0-E1DE96D94222"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0D55F575-B4EC-49B1-BFC1-0A465BE7E9F7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1024855C-D354-4434-8576-A95F80865403"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CA097B1B-EF49-414E-9815-7CCFB005DC07"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2287EE38-8E26-4257-B7EC-5B6C005E6550"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "224FCAE7-E3CE-46E5-82F2-FD5D3412B7C4"
+    },
+    {
+      "class": "symbolMaster",
       "id": "BD96A90A-1FAF-48D7-A8FC-101B3A44C091"
     },
     {
@@ -318,6 +350,14 @@
     },
     {
       "class": "symbolMaster",
+      "id": "5D256D6A-5DEB-4A6B-811C-7FBC2752E738"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5259BEDF-8B08-499A-AD11-F73B0B006ECA"
+    },
+    {
+      "class": "symbolMaster",
       "id": "029E3461-FB82-4A7D-8A62-4D9143D7DFBE"
     },
     {
@@ -331,6 +371,14 @@
     {
       "class": "symbolMaster",
       "id": "8F04EE4E-1C9E-471D-AF79-FECDA45B0D5F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5EE967AD-FDD5-4B63-85A8-122043C55168"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "07E4B4E4-88CF-45E7-B26D-509DCB130B2D"
     },
     {
       "class": "symbolMaster",
@@ -391,6 +439,18 @@
     {
       "class": "symbolMaster",
       "id": "BC8F2E48-939A-45A1-A913-E0901611CC34"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6B2CDF0C-AF7E-43E8-94D4-E1027A843931"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DD2DCF2C-0816-4E17-8BF3-4D7CE97D53D8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9577F52D-3676-433B-82B0-DFA1B499B4D5"
     }
   ],
   "name": "Symbols",

@@ -48,6 +48,18 @@
       "do_objectID": "5102A5F3-E7C9-4D83-9956-8A551C02CE4C",
       "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/1731181B-12BB-4FF3-B21A-634A9F0805E7_stringValue",
       "value": "開始吞嚥"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "906A0CDE-EB90-41AF-90F5-1AD04D968052",
+      "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/2DABAEB5-F53C-47E4-83A3-5BE68C70FC07_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF4317EF-40DD-424E-AA83-04C55A9D90F8",
+      "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/1CFC7661-5F37-4EAD-B88B-C973238B3096/1731181B-12BB-4FF3-B21A-634A9F0805E7_stringValue",
+      "value": "吞嚥前"
     }
   ],
   "overrides": {
@@ -55,7 +67,13 @@
       "symbolID": ""
     },
     "311A5BF3-7738-4A8B-9C30-830C04595460": {
-      "1731181B-12BB-4FF3-B21A-634A9F0805E7": "開始吞嚥"
+      "1731181B-12BB-4FF3-B21A-634A9F0805E7": "開始吞嚥",
+      "1CFC7661-5F37-4EAD-B88B-C973238B3096": {
+        "1731181B-12BB-4FF3-B21A-634A9F0805E7": "吞嚥前"
+      },
+      "2DABAEB5-F53C-47E4-83A3-5BE68C70FC07": {
+        "symbolID": ""
+      }
     },
     "CBEFEC2E-676E-46D5-8358-F88A5E7DB1E1": "標記 1"
   },

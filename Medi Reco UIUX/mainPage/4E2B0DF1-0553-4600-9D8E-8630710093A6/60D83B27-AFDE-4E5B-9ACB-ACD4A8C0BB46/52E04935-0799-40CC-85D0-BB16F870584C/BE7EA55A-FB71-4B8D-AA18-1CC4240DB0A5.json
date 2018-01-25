@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BE7EA55A-FB71-4B8D-AA18-1CC4240DB0A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 300,
+    "x": 0,
+    "y": 160
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "TagForm Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1A90F201-065B-45E1-B9EF-B63DEC216FD2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/1731181B-12BB-4FF3-B21A-634A9F0805E7_stringValue",
+      "value": "結束"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CBEFEC2E-676E-46D5-8358-F88A5E7DB1E1_stringValue",
+      "value": "標記 M"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "249A4880-10C1-4FF2-B1F3-6CDDC01F3192",
+      "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/2DABAEB5-F53C-47E4-83A3-5BE68C70FC07_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC435A8E-4271-4220-BC49-E30CDE032F9A",
+      "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/1CFC7661-5F37-4EAD-B88B-C973238B3096/1731181B-12BB-4FF3-B21A-634A9F0805E7_stringValue",
+      "value": "系統預留"
+    }
+  ],
+  "overrides": {
+    "1A90F201-065B-45E1-B9EF-B63DEC216FD2": {
+      "symbolID": ""
+    },
+    "311A5BF3-7738-4A8B-9C30-830C04595460": {
+      "1731181B-12BB-4FF3-B21A-634A9F0805E7": "結束",
+      "1CFC7661-5F37-4EAD-B88B-C973238B3096": {
+        "1731181B-12BB-4FF3-B21A-634A9F0805E7": "系統預留"
+      },
+      "2DABAEB5-F53C-47E4-83A3-5BE68C70FC07": {
+        "symbolID": ""
+      }
+    },
+    "CBEFEC2E-676E-46D5-8358-F88A5E7DB1E1": "標記 M"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "72B53EB9-A667-4D9C-BC24-2F7E102AC8BA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 1130,
     "width": 2465,
-    "x": -3162,
-    "y": 2524
+    "x": -3335,
+    "y": 3283
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -60,10 +60,6 @@
     {
       "class": "bitmap",
       "id": "B69B4E56-0C38-4784-9DA8-16E7AA47A9C2"
-    },
-    {
-      "class": "bitmap",
-      "id": "419A114E-0CF3-4B0B-B659-A8BC82976133"
     },
     {
       "class": "bitmap",
@@ -114,6 +110,10 @@
       "id": "6303091F-E685-408D-B356-B584351F2679"
     },
     {
+      "class": "bitmap",
+      "id": "1395EDB2-A2CA-4EEF-88B5-3FE4DD1EB3CB"
+    },
+    {
       "class": "shapeGroup",
       "id": "76432DFF-CBCA-4822-81DC-51CE4084D340"
     },
@@ -140,10 +140,6 @@
     {
       "class": "text",
       "id": "649358F3-AC2B-4642-ACE4-82C65634D79B"
-    },
-    {
-      "class": "bitmap",
-      "id": "E7C1F811-102B-4013-BB74-DCD92324B7C2"
     },
     {
       "class": "bitmap",
@@ -174,8 +170,108 @@
       "id": "46440487-69E5-44E2-AC7A-B1EF30B62C23"
     },
     {
+      "class": "shapeGroup",
+      "id": "FEDD937F-3B7E-47A7-8F69-86D4798A0433"
+    },
+    {
       "class": "bitmap",
       "id": "351C2B73-1291-4DB9-97F3-2F197B90C46D"
+    },
+    {
+      "class": "bitmap",
+      "id": "499DF0EF-90AC-4AEE-BE0C-1C02AA3EF8E3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92571885-0121-4739-AEB1-653DF752E4B4"
+    },
+    {
+      "class": "group",
+      "id": "547706BB-BD22-4D8A-88C7-484A5DB0EB5C"
+    },
+    {
+      "class": "group",
+      "id": "7459767E-D9C8-44D8-A650-B4653523C12B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "228BC44A-47D1-44E5-8284-9B98FD0ACA05"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1D6EF5E-9C91-4F98-A079-954F05C89234"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37F5F167-1F16-43D5-941E-5B5FD324291F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34FC12AD-5275-4DBE-9CD9-0919AD8E3812"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98505147-6FD5-4591-91F6-78EE05094A5F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F698C74-CC2A-4858-A625-FC176644EE01"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF0940E0-50DC-4655-A214-279C975A0851"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC4474FD-5D03-4D93-BF5E-8A95F4512AB3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2BD4DB86-66BC-42F3-BAAA-25C1346C3DD3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98C6FA16-A21A-4FD3-B99D-D725C751631D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE87E4B6-127D-40A9-84F0-1C2DF2CA0EC0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CCA27284-FADD-41D8-9844-93044B86BA51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF161FE9-F461-4A11-8AA0-E52ADBE2D2C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F49F1230-1296-43C1-9096-97675CDE6A11"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE97DA8A-99B1-44CF-BAC5-873AC2139E0D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D9EB31A0-E516-458F-834A-4CB76665C18A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "74FCD8F1-334F-4D34-A5FA-BEA61AC30F72"
+    },
+    {
+      "class": "group",
+      "id": "FC7D3FBD-CEA0-4AAC-B3AD-2ED14AED19E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1BB1372B-7350-4000-B9F9-E92AF969A4C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9E5207C-5FDE-42CD-B36E-77C27D698932"
     }
   ],
   "name": "iPad",

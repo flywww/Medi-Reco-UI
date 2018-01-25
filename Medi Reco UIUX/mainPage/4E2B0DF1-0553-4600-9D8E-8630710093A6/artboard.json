@@ -26,11 +26,13 @@
     "y": 1310
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      155,
+      2835
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -42,8 +44,76 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "3104F612-56A9-41A0-9E8B-FD97144A5F82"
+    },
+    {
+      "class": "group",
+      "id": "61BDD2C9-5D78-423B-88CE-D622053E6F54"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF2AC63D-EE30-4BB2-B20A-CC69D6FD6F25"
+    },
+    {
       "class": "bitmap",
-      "id": "38E2F8C6-31A2-482E-9E4F-75CBA18DA63D"
+      "id": "99B7378C-F928-49D5-BF63-8EF25B602BCD"
+    },
+    {
+      "class": "text",
+      "id": "6A04254C-7179-4F24-BE4E-F46367B8223B"
+    },
+    {
+      "class": "text",
+      "id": "B26B6BCA-FC60-44A3-8771-208FDE46675E"
+    },
+    {
+      "class": "text",
+      "id": "DC8D5A72-D341-417B-AFE4-95012FFA6354"
+    },
+    {
+      "class": "text",
+      "id": "6A0C4DB5-3864-4348-86BA-FCE6E24E17D0"
+    },
+    {
+      "class": "text",
+      "id": "9FE2D892-F64A-4C61-AE73-1BDFA960E776"
+    },
+    {
+      "class": "text",
+      "id": "B3781302-78AD-4385-8738-2118C870DBF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04D1DA0E-6C82-4199-B0CA-F492453D6957"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E49A553-EBC0-4275-BDB6-2DCB668F3F6A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E6C452BE-DDD3-4B5D-A221-5BA27758A9EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB7A8E1F-FC20-45E0-AB43-46B05AD0E4A4"
+    },
+    {
+      "class": "bitmap",
+      "id": "39D72E95-C294-49BA-99C8-51FD61F1FAD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2EA53E3C-201B-49BF-9A52-9CDDFB027062"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF1A8B5B-0114-4272-8B52-B1F51CEFC73B"
+    },
+    {
+      "class": "bitmap",
+      "id": "A5031174-8ECF-4812-93EC-352E49E4887F"
     },
     {
       "class": "group",
@@ -59,11 +129,23 @@
     },
     {
       "class": "group",
-      "id": "61BDD2C9-5D78-423B-88CE-D622053E6F54"
+      "id": "E42F8738-9614-4147-9CFC-15DE4FDFA832"
     },
     {
-      "class": "shapeGroup",
-      "id": "1FD2ED20-81EC-4AE8-9E26-77601BBA5033"
+      "class": "group",
+      "id": "6355C6A6-55F0-456E-B163-DB85EFF3A4AB"
+    },
+    {
+      "class": "group",
+      "id": "D0946701-7F15-436B-AFB5-DCD90EFC09E3"
+    },
+    {
+      "class": "bitmap",
+      "id": "B3CF9594-4BE3-4749-8A00-ADB37F6F2F5C"
+    },
+    {
+      "class": "bitmap",
+      "id": "57F56EC3-EB38-47E1-B072-7416A07A5535"
     }
   ],
   "name": "RecordPage",

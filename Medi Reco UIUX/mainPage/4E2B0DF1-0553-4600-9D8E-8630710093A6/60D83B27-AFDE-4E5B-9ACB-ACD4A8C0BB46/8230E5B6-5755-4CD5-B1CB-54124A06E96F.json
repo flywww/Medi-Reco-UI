@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8230E5B6-5755-4CD5-B1CB-54124A06E96F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 300,
+    "x": 18,
+    "y": 255
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "form/formWithLabel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B028EDA-2356-462A-BE4B-CE353341CEB1",
+      "overrideName": "CBEFEC2E-676E-46D5-8358-F88A5E7DB1E1_stringValue",
+      "value": "維持時間"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EFC9E4C-1F0B-4BC7-B544-0429278E194F",
+      "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/1CFC7661-5F37-4EAD-B88B-C973238B3096/1731181B-12BB-4FF3-B21A-634A9F0805E7_stringValue",
+      "value": "5, 10, 15, 直到下個標記"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC829EFC-A7AA-49B1-AB75-6F7E719F53B1",
+      "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/2DABAEB5-F53C-47E4-83A3-5BE68C70FC07_symbolID",
+      "value": "80A35C65-EF21-4D75-A413-CCDFD561EA59"
+    }
+  ],
+  "overrides": {
+    "311A5BF3-7738-4A8B-9C30-830C04595460": {
+      "1CFC7661-5F37-4EAD-B88B-C973238B3096": {
+        "1731181B-12BB-4FF3-B21A-634A9F0805E7": "5, 10, 15, 直到下個標記"
+      },
+      "2DABAEB5-F53C-47E4-83A3-5BE68C70FC07": {
+        "symbolID": "80A35C65-EF21-4D75-A413-CCDFD561EA59"
+      }
+    },
+    "CBEFEC2E-676E-46D5-8358-F88A5E7DB1E1": "維持時間"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "72B53EB9-A667-4D9C-BC24-2F7E102AC8BA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

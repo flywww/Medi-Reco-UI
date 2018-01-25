@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 303,
+  "changeIdentifier": 304,
   "do_objectID": "C3842BAA-F532-4876-9CB5-850775FBE5E1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "6905D495-2CF3-4964-872F-5FEA6D9C249F"
     }
   ],
-  "name": "button/mediaBtn/icon/normal/playIcon Copy",
+  "name": "button/mediaBtn/icon/pressed/playIcon",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

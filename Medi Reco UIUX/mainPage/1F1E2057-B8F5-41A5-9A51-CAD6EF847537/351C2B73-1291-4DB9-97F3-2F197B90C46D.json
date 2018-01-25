@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 499,
-    "width": 970,
-    "x": 366,
-    "y": 26
+    "height": 186,
+    "width": 362,
+    "x": 358,
+    "y": 1
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -47,12 +47,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 499,
+            "constant": 186,
             "enabled": 1,
             "modelID": "constraint_7cc4053f-c1bb-4a63-a575-81e60077be3d",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 970
+            "multiplier": 361.5631
           },
           "automatic": 1,
           "modelID": "viewConstraints_3cd3a5c0-8d29-44cc-86d0-dd80e55ae467",

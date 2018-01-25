@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 348,
-    "x": 1036,
+    "height": 370,
+    "width": 410,
+    "x": 1039,
     "y": 416
   },
   "hasClickThrough": false,
@@ -31,11 +31,19 @@
     },
     {
       "class": "group",
+      "id": "30E9E247-F8A8-4BCE-8321-C110EE26F70C"
+    },
+    {
+      "class": "group",
       "id": "52E04935-0799-40CC-85D0-BB16F870584C"
     },
     {
       "class": "symbolInstance",
       "id": "B481AC7C-5D99-4C7E-B082-FE8564390C83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8230E5B6-5755-4CD5-B1CB-54124A06E96F"
     }
   ],
   "name": "SaveExportWindow",

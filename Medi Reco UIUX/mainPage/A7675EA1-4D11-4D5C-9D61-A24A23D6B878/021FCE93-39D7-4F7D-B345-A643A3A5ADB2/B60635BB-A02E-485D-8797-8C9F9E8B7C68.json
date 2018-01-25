@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B60635BB-A02E-485D-8797-8C9F9E8B7C68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 224,
+    "x": 0,
+    "y": 45
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "form/formWithoutLabel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33BBA9EE-4A82-48AE-B27B-1ECE1C93E9B6",
+      "overrideName": "1CFC7661-5F37-4EAD-B88B-C973238B3096/1731181B-12BB-4FF3-B21A-634A9F0805E7_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2DF0373-0B5E-4F6F-B427-226E3416B906",
+      "overrideName": "2DABAEB5-F53C-47E4-83A3-5BE68C70FC07_symbolID",
+      "value": "80A35C65-EF21-4D75-A413-CCDFD561EA59"
+    }
+  ],
+  "overrides": {
+    "1CFC7661-5F37-4EAD-B88B-C973238B3096": {
+      "1731181B-12BB-4FF3-B21A-634A9F0805E7": " "
+    },
+    "2DABAEB5-F53C-47E4-83A3-5BE68C70FC07": {
+      "symbolID": "80A35C65-EF21-4D75-A413-CCDFD561EA59"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E5ED9C46-1B3C-4BEC-B62F-5531FAD6E41B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

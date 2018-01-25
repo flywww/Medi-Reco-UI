@@ -48,6 +48,18 @@
       "do_objectID": "4F841945-3CCE-4D8A-9A55-47BDF8C780E8",
       "overrideName": "1A90F201-065B-45E1-B9EF-B63DEC216FD2_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "640465B9-BF0A-4252-88D1-A4B64541BA96",
+      "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/2DABAEB5-F53C-47E4-83A3-5BE68C70FC07_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E42E96F-430F-401D-A096-F0AB4C946182",
+      "overrideName": "311A5BF3-7738-4A8B-9C30-830C04595460/1CFC7661-5F37-4EAD-B88B-C973238B3096/1731181B-12BB-4FF3-B21A-634A9F0805E7_stringValue",
+      "value": "吞嚥中"
     }
   ],
   "overrides": {
@@ -55,7 +67,13 @@
       "symbolID": ""
     },
     "311A5BF3-7738-4A8B-9C30-830C04595460": {
-      "1731181B-12BB-4FF3-B21A-634A9F0805E7": "吞嚥中"
+      "1731181B-12BB-4FF3-B21A-634A9F0805E7": "吞嚥中",
+      "1CFC7661-5F37-4EAD-B88B-C973238B3096": {
+        "1731181B-12BB-4FF3-B21A-634A9F0805E7": "吞嚥中"
+      },
+      "2DABAEB5-F53C-47E4-83A3-5BE68C70FC07": {
+        "symbolID": ""
+      }
     },
     "CBEFEC2E-676E-46D5-8358-F88A5E7DB1E1": "標記 2"
   },

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 467,
+  "changeIdentifier": 468,
   "do_objectID": "5CEE96E2-68D1-4D83-A7A2-2851C9532397",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "AFD1511B-8C31-4E3F-82F4-D6E0E1EE470A"
     }
   ],
-  "name": "button/mediaBtn/icon/normal/nextIcon Copy",
+  "name": "button/mediaBtn/icon/pressed/nextIcon",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

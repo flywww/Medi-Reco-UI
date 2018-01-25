@@ -31,7 +31,6 @@
     "_class": "rulerData",
     "base": 529,
     "guides": [
-      984
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -68,10 +67,6 @@
     },
     {
       "class": "group",
-      "id": "2308C305-B9FA-4B4C-A98E-CAF45696420A"
-    },
-    {
-      "class": "group",
       "id": "0DCBC429-950F-4FC7-A9D2-238801CFA0AE"
     },
     {
@@ -101,6 +96,10 @@
     {
       "class": "symbolInstance",
       "id": "43F949EC-C962-40F0-A99E-863A515B6B85"
+    },
+    {
+      "class": "group",
+      "id": "FB965290-0CBF-4205-B489-1A04DC44DDF5"
     }
   ],
   "name": "ViedoEditPage",
@@ -126,7 +125,6 @@
     "_class": "rulerData",
     "base": 66,
     "guides": [
-      820
     ]
   }
 }

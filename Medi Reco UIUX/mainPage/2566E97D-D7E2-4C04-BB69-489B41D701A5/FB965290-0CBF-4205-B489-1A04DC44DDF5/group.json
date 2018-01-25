@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "FB965290-0CBF-4205-B489-1A04DC44DDF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 1439,
+    "x": 41,
+    "y": 989
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DFBE28A8-D124-49C0-B90A-D0454702253C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8266C89-65A2-4D6D-BF3A-7853449631A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF4561BC-E226-432F-849A-233C5B47CC3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82A64994-2F31-4926-91FE-B5858AE28768"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39C7F4E1-D6AA-4BB1-9D20-7DBEC93ED6CA"
+    },
+    {
+      "class": "group",
+      "id": "8ED11C59-B21C-4C88-A244-9C555B9159CB"
+    }
+  ],
+  "name": "Play control panel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

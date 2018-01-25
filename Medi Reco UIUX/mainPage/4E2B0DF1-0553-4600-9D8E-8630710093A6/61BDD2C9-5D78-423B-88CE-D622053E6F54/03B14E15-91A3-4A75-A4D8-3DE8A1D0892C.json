@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 80,
     "width": 80,
-    "x": 1072,
-    "y": 34
+    "x": 1075,
+    "y": 15
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -35,7 +35,7 @@
       "_class": "overrideValue",
       "do_objectID": "F2EA8C7D-7DE4-41AD-86AC-69E150CBE799",
       "overrideName": "01B70E1D-7F56-4783-A6B9-4267A22F3F39_symbolID",
-      "value": "2E11A469-AE73-4C9B-968D-1A3343DB8F98"
+      "value": "CB555FBE-9E44-4B9B-BF2E-EDCC8DDAA956"
     },
     {
       "_class": "overrideValue",
@@ -45,24 +45,17 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FA532F53-9360-48EF-A2E6-44E697F26C92",
-      "overrideName": "30E71B97-CA95-4B78-B0BF-2E377AA3EB64_symbolID",
-      "value": "0D92D8B1-BF61-43B9-9E1A-B5DB846CA989"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "DC4B417B-5A59-4281-9C72-B6662D864ED1",
-      "overrideName": "30E71B97-CA95-4B78-B0BF-2E377AA3EB64/79325824-E636-4695-85B1-5F61DB5F6A69_stringValue",
-      "value": "完 成"
+      "do_objectID": "9D84206E-2148-4A66-A158-0BA3FDA22DF9",
+      "overrideName": "30E71B97-CA95-4B78-B0BF-2E377AA3EB64/FA854481-E07B-47AB-911F-2A3C43BF3041_stringValue",
+      "value": "錄影完成"
     }
   ],
   "overrides": {
     "01B70E1D-7F56-4783-A6B9-4267A22F3F39": {
-      "symbolID": "2E11A469-AE73-4C9B-968D-1A3343DB8F98"
+      "symbolID": "CB555FBE-9E44-4B9B-BF2E-EDCC8DDAA956"
     },
     "30E71B97-CA95-4B78-B0BF-2E377AA3EB64": {
-      "79325824-E636-4695-85B1-5F61DB5F6A69": "完 成",
-      "symbolID": "0D92D8B1-BF61-43B9-9E1A-B5DB846CA989"
+      "FA854481-E07B-47AB-911F-2A3C43BF3041": "錄影完成"
     },
     "D2889720-2CA3-4DBE-8B84-3567F58A307A": {
       "symbolID": ""
