@@ -35,11 +35,11 @@
       "_class": "overrideValue",
       "do_objectID": "66361A5F-7047-435A-9986-CBB432B7041C",
       "overrideName": "3F68FAD5-6725-4EEA-819A-E4E5E0249AA5_stringValue",
-      "value": "標記編輯"
+      "value": "標記設定"
     }
   ],
   "overrides": {
-    "3F68FAD5-6725-4EEA-819A-E4E5E0249AA5": "標記編輯"
+    "3F68FAD5-6725-4EEA-819A-E4E5E0249AA5": "標記設定"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 566,
+  "changeIdentifier": 686,
   "do_objectID": "EB7C5560-90E3-4213-A056-770CE8FC950A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 30,
     "width": 20,
-    "x": 1810,
-    "y": 10
+    "x": 1663,
+    "y": 58
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,7 +52,7 @@
       "id": "A57E8ACE-B12B-43E5-A4C4-B726D916EADC"
     }
   ],
-  "name": "form/element/stepper",
+  "name": "form/element/activeStepper",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

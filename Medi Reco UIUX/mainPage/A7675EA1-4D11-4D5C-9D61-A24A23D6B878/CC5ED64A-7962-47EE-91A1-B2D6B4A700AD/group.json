@@ -1,10 +1,18 @@
 {
-  "_class": "shapeGroup",
-  "clippingMaskMode": 0,
-  "do_objectID": "E036427E-3205-4102-9A49-F4BDDDA56E8D",
+  "_class": "group",
+  "do_objectID": "CC5ED64A-7962-47EE-91A1-B2D6B4A700AD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -14,25 +22,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 135,
-    "width": 224,
-    "x": 0,
-    "y": 0
+    "height": 35,
+    "width": 102,
+    "x": 599,
+    "y": 815
   },
   "hasClickThrough": false,
-  "hasClippingMask": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "839BF081-D076-47D6-AC2E-FD7D6911104C"
+      "class": "shapeGroup",
+      "id": "93C9A0B6-C359-4537-BF6B-A17E3CBC620D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4113274-4C1F-45E4-934D-FFB2B1293D99"
     }
   ],
-  "name": "Duplicate control",
+  "name": "Group 9 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,13 +59,6 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
-    },
-    "com.invisionlabs.duplicate": {
-      "args": {
-        "verticalCount": 3,
-        "verticalGutter": 15
-      }
     }
-  },
-  "windingRule": 1
+  }
 }
